@@ -1,1 +1,5 @@
-# les_cards_and_answer
+Для работы программы нужен: 
+1)  python https://www.python.org/downloads/release/python-387 (ссылка сразу на скачивание)
+2) tkinter - заходим в командную строку, и пишем: pip install tkinter
+
+после вышеперечисленного мы запускаем данный файл через командную строку
